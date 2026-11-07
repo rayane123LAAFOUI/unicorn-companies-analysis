@@ -33,3 +33,14 @@ The project uses a relational database containing four tables:
 - Extracting insights from company valuation data.
 
 
+## Key Findings
+
+The analysis identified the three industries with the highest number of unicorn companies between 2019 and 2021.
+
+- **Fintech** ranked first in 2021, with 138 unicorn companies.
+- **Internet Software & Services** followed with 119 companies.
+- **E-commerce & Direct-to-Consumer** recorded 47 companies in 2021.
+- Average valuations decreased across all three industries in 2021 compared with 2020.
+
+These findings highlight the rapid growth in unicorn creation during 2021 and the differences in valuation trends across industries.
+
